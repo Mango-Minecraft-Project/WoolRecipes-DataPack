@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "group": "color_wool",
+  "ingredients": [
+    {
+      "tag": "wool_tweaks:wt_wool"
+    },
+    {
+      "item": "minecraft:lime_dye"
+    }
+  ],
+  "result": {
+    "item": "minecraft:lime_wool"
+  }
+}
