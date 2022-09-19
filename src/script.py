@@ -1,7 +1,7 @@
 from json import dump
 
 def dump_(path, data):
-    with open("./data/wool_tweaks/recipes/" + path + ".json", mode="w") as file:
+    with open("./Wool Tweaks/data/wool_tweaks/recipes/" + path + ".json", mode="w") as file:
         dump(data, file, indent=2)
 
 dump_("wool_to_string", 
@@ -63,7 +63,7 @@ for color in {"red", "black", "blue", "brown",
                       },
                   "result": {
                       "item": f"minecraft:{color}_carpet",
-                      "count":9
+                      "count": 8
                       }
                   }
           )
