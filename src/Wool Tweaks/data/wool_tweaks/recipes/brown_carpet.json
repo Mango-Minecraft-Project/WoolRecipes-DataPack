@@ -15,6 +15,7 @@
     }
   },
   "result": {
-    "item": "minecraft:brown_carpet"
+    "item": "minecraft:brown_carpet",
+    "count": 9
   }
 }

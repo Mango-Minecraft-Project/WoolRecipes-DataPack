@@ -15,6 +15,7 @@
     }
   },
   "result": {
-    "item": "minecraft:magenta_carpet"
+    "item": "minecraft:magenta_carpet",
+    "count": 9
   }
 }

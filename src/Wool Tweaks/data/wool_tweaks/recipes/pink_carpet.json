@@ -15,6 +15,7 @@
     }
   },
   "result": {
-    "item": "minecraft:pink_carpet"
+    "item": "minecraft:pink_carpet",
+    "count": 9
   }
 }

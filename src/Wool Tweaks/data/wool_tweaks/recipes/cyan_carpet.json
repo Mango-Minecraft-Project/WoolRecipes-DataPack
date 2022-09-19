@@ -15,6 +15,7 @@
     }
   },
   "result": {
-    "item": "minecraft:cyan_carpet"
+    "item": "minecraft:cyan_carpet",
+    "count": 9
   }
 }

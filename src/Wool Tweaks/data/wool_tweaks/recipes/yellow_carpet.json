@@ -15,6 +15,7 @@
     }
   },
   "result": {
-    "item": "minecraft:yellow_carpet"
+    "item": "minecraft:yellow_carpet",
+    "count": 9
   }
 }
