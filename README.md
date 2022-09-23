@@ -5,6 +5,8 @@
   - [English README](#english-readme)
   - [简体中文说明书](#简体中文说明书)
   - [繁體中文說明書](#繁體中文說明書)
+  - [Icon Source 封面来源 封面來源](#icon-source-封面来源-封面來源)
+  - [About Links 连结们 連結們](#about-links-连结们-連結們)
 
 ---
 
@@ -68,6 +70,12 @@ Recipes for making wool into thread have also been added.
 
 ## Icon Source 封面来源 封面來源
 
-> 感謝 **六葉草** 授權使用
-> ![./img/new_icon_license.png](./img/new_icon_license.png)
-> ![./img/new_icon.png](./img/new_icon.png)
+> 感謝 **六葉草** 授權使用  
+> ![./img/new_icon_license.png](./img/new_icon_license.png)  
+> ![./img/new_icon.png](./img/new_icon.png)  
+
+## About Links 连结们 連結們
+
+Github: [https://github.com/EvanHsieh0415/WoolTwaeks-Datapack/releases](https://github.com/EvanHsieh0415/WoolTwaeks-Datapack/releases "Github")  
+MC百科: [https://www.mcmod.cn/class/7623.html](https://www.mcmod.cn/class/7623.html "MC百科")  
+CurseForge (unapproved 審核中): [https://www.curseforge.com/minecraft/texture-packs/wool-tweaks-datapack-version](https://www.curseforge.com/minecraft/texture-packs/wool-tweaks-datapack-version "CurseForge")  
