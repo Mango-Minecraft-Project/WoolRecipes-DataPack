@@ -65,3 +65,9 @@ Recipes for making wool into thread have also been added.
 | `wool_tweaks:wt_wool`   |羊毛|
 | `wool_tweaks:wt_carpet` |地毯|
 | `wool_tweaks:wt_bed`    |床|
+
+## Icon Source 封面来源 封面來源
+
+> 感謝 **六葉草** 授權使用
+> ![./img/new_icon_license.png](./img/new_icon_license.png)
+> ![./img/new_icon.png](./img/new_icon.png)
