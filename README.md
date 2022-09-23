@@ -1,6 +1,6 @@
-# WoolTweaks-Datapack
+# WoolTweaks-Datapack<br>羊毛调整-数据包<br>羊毛調整-資料包
 
-- [WoolTweaks-Datapack](#wooltweaks-datapack)
+- [WoolTweaks-Datapack<br>羊毛调整-数据包<br>羊毛調整-資料包](#wooltweaks-datapack羊毛调整-数据包羊毛調整-資料包)
   - [Gallery 画廊 畫廊](#gallery-画廊-畫廊)
   - [English README](#english-readme)
   - [简体中文说明书](#简体中文说明书)
@@ -70,7 +70,9 @@ Recipes for making wool into thread have also been added.
 
 ## Icon Source 封面来源 封面來源
 
-> 感謝 **六葉草** 授權使用  
+> Thank you **Hexakon#6724** for authorizing the use of  
+> 感谢 **六葉草 Hexakon#6724** 授权使用  
+> 感謝 **六葉草 Hexakon#6724** 授權使用  
 > ![./img/new_icon_license.png](./img/new_icon_license.png)  
 > ![./img/new_icon.png](./img/new_icon.png)  
 
