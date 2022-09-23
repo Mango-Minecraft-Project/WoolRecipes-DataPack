@@ -11,16 +11,16 @@
 ## Gallery 画廊 畫廊
 
 > Wool To 4xString  
-> ![](./img/0.png)  
+> ![./img/0.png](./img/0.png)  
 
 > Dyed Wool Redyed  
-> ![](./img/1.png)  
+> ![./img/1.png](./img/1.png)  
 
 > Dyed Carpet Redyed  
-> ![](./img/2.png)  
+> ![./img/2.png](./img/2.png)  
 
 > Dyed Bed Redyed  
-> ![](./img/3.png)  
+> ![./img/3.png](./img/3.png)  
 
 ---
 
