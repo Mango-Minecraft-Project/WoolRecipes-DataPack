@@ -2,7 +2,7 @@
 
 # 羊毛调整-数据包
 ![../img/icon/new_icon.png](../img/icon/new_icon.png)  
-| [English README](../README.md) | >简体中文说明书< | [繁體中文說明書](./README/README.zho-Hant_TW.md) |
+| [English README](../README.md) | >简体中文说明书< | [繁體中文說明書](./README.zho-Hant_TW.md) |
 
 </div>
 
