@@ -1,4 +1,9 @@
+<div align='center'>
+
 # 羊毛調整-資料包
+![../img/icon/new_icon.png](../img/icon/new_icon.png)
+
+</div>
 
 | [English README](../README.md) | [简体中文说明书](./README/README.zho-Hans_CN.md) | >繁體中文說明書< |
 
@@ -41,8 +46,7 @@
 ## 封面來源
 
 > 感謝 **六葉草 Hexakon#6724** 授權使用  
-> ![./img/new_icon_license.png](./img/new_icon_license.png)  
-> ![./img/new_icon.png](./img/new_icon.png) 
+> ![./img/icon/new_icon_license.png](./img/icon/new_icon_license.png)  
 
 ## 其他連結
 Github: [https://github.com/EvanHsieh0415/WoolTwaeks-Datapack/releases](https://github.com/EvanHsieh0415/WoolTwaeks-Datapack/releases "Github")  

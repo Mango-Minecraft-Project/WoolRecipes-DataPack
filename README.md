@@ -1,5 +1,9 @@
-# WoolTweaks-Datapack
+<div align='center'>
 
+# WoolTweaks-Datapack
+![./img/icon/new_icon.png](./img/icon/new_icon.png)
+
+</div>
 | >English README< | [简体中文说明书](./README/README.zho-Hans_CN.md) | [繁體中文說明書](./README/README.zho-Hant_TW.md) |
 
 ---
@@ -47,8 +51,7 @@ Recipes for making wool into thread have also been added.
 ## Icon Source
 
 > Thank you **Hexakon#6724** for authorizing the use of  
-> ![./img/new_icon_license.png](./img/new_icon_license.png)  
-> ![./img/new_icon.png](./img/new_icon.png)  
+> ![./img/icon/new_icon_license.png](./img/icon/new_icon_license.png)  
 
 ## About Links
 
