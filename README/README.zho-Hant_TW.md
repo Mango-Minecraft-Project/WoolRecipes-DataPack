@@ -1,7 +1,7 @@
 <div align='center'>
 
 # 羊毛調整-資料包
-![../img/icon/new_icon.png](../img/icon/new_icon.png)
+![../img/icon/new_icon.png](../img/icon/new_icon.png)  
 | [English README](../README.md) | [简体中文说明书](./README/README.zho-Hans_CN.md) | >繁體中文說明書< |
 
 </div>
