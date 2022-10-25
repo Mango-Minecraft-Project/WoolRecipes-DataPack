@@ -3,7 +3,7 @@
     "group": "ct:color_bed",
     "ingredients": [
         {
-            "tag": "wool_tweaks:wt_bed",
+            "tag": "minecraft:beds",
             "count": 1
         },
         {

@@ -1,13 +1,10 @@
 {
   "replace": false,
   "values": [
-    "#minecraft:carpets",
     {
       "id": "#minecraft:carpets",
       "required": false
     },
-    
-    "#minecraft:wool_carpets",
     {
       "id": "#minecraft:wool_carpets",
       "required": false
