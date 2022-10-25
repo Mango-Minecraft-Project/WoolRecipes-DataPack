@@ -15,16 +15,16 @@
 ## Gallery
 
 > Wool To 4xString  
-> ![./img/0.png](./img/0.png)  
+> ![./img/README/wool_tweaks_wool_to_string.png](./img/README/wool_tweaks_wool_to_string.png)  
 
 > Dyed Wool Redyed  
-> ![./img/1.png](./img/1.png)  
+> ![./img/README/wool_tweaks_wool_white_wool.png](./img/README/wool_tweaks_wool_white_wool.png)  
 
 > Dyed Carpet Redyed  
-> ![./img/2.png](./img/2.png)  
+> ![./img/README/wool_tweaks_carpet_white_carpet.png](./img/README/wool_tweaks_carpet_white_carpet.png)  
 
 > Dyed Bed Redyed  
-> ![./img/3.png](./img/3.png)  
+> ![./img/README/wool_tweaks_bed_yellow_bed.png](./img/README/wool_tweaks_bed_yellow_bed.png)  
 
 ---
 

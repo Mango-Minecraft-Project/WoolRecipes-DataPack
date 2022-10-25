@@ -13,16 +13,16 @@
 ## 畫廊
 
 > 羊毛逆合成4根線  
-> ![./img/0.png](./img/0.png)  
+> ![./img/README/wool_tweaks_wool_to_string.png](./img/README/wool_tweaks_wool_to_string.png)  
 
 > 已染色的羊毛再次染色  
-> ![./img/1.png](./img/1.png)  
+> ![./img/README/wool_tweaks_wool_white_wool.png](./img/README/wool_tweaks_wool_white_wool.png)  
 
 > 已染色的地毯再次染色  
-> ![./img/2.png](./img/2.png)  
+> ![./img/README/wool_tweaks_carpet_white_carpet.png](./img/README/wool_tweaks_carpet_white_carpet.png)  
 
 > 已染色的床再次染色  
-> ![./img/3.png](./img/3.png)  
+> ![./img/README/wool_tweaks_bed_yellow_bed.png](./img/README/wool_tweaks_bed_yellow_bed.png)  
 
 ---
 
