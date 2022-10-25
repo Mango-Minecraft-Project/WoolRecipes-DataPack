@@ -3,13 +3,16 @@
     "group": "ct:color_bed",
     "ingredients": [
         {
-            "tag": "wool_tweaks:wt_bed"
+            "tag": "wool_tweaks:wt_bed",
+            "count": 1
         },
         {
-            "item": "minecraft:purple_dye"
+            "item": "minecraft:purple_dye",
+            "count": 1
         }
     ],
     "result": {
-        "item": "minecraft:purple_bed"
+        "item": "minecraft:purple_bed",
+        "count": 1
     }
 }

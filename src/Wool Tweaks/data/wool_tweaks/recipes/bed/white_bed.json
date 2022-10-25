@@ -3,13 +3,16 @@
     "group": "ct:color_bed",
     "ingredients": [
         {
-            "tag": "wool_tweaks:wt_bed"
+            "tag": "wool_tweaks:wt_bed",
+            "count": 1
         },
         {
-            "item": "minecraft:white_dye"
+            "item": "minecraft:white_dye",
+            "count": 1
         }
     ],
     "result": {
-        "item": "minecraft:white_bed"
+        "item": "minecraft:white_bed",
+        "count": 1
     }
 }

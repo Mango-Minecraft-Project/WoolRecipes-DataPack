@@ -3,13 +3,16 @@
     "group": "ct:color_bed",
     "ingredients": [
         {
-            "tag": "wool_tweaks:wt_bed"
+            "tag": "wool_tweaks:wt_bed",
+            "count": 1
         },
         {
-            "item": "minecraft:brown_dye"
+            "item": "minecraft:brown_dye",
+            "count": 1
         }
     ],
     "result": {
-        "item": "minecraft:brown_bed"
+        "item": "minecraft:brown_bed",
+        "count": 1
     }
 }

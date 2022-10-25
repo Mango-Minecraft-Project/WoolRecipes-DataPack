@@ -3,13 +3,16 @@
     "group": "ct:color_wool",
     "ingredients": [
         {
-            "tag": "minecraft:wool"
+            "tag": "minecraft:wool",
+            "count": 1
         },
         {
-            "item": "minecraft:orange_dye"
+            "item": "minecraft:orange_dye",
+            "count": 1
         }
     ],
     "result": {
-        "item": "minecraft:orange_wool"
+        "item": "minecraft:orange_wool",
+        "count": 1
     }
 }

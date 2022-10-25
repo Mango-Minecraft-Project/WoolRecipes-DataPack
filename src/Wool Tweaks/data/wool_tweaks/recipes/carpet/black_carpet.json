@@ -8,7 +8,7 @@
     ],
     "key": {
         "*": {
-            "tag": "wool_tweaks:wt_carpet"
+            "tag": "#wool_tweaks:carpets"
         },
         "_": {
             "item": "minecraft:black_dye"
