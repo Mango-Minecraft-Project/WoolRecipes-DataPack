@@ -1,12 +1,12 @@
 {
-  "type": "crafting_shapeless",
-  "ingredients": [
-    {
-      "tag": "wool_tweaks:wt_wool"
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "minecraft:wool"
+        }
+    ],
+    "result": {
+        "item": "minecraft:string",
+        "count": 4
     }
-  ],
-  "result": {
-    "item": "minecraft:string",
-    "count": 4
-  }
 }
