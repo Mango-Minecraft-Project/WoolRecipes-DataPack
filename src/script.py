@@ -4,7 +4,8 @@ wool_to_string_base = {
     'type': 'minecraft:crafting_shapeless',
     'ingredients': [
         {
-            'tag': 'minecraft:wool'
+            'tag': 'minecraft:wool',
+            'count': 1
         }
     ],
     'result': {
@@ -19,14 +20,17 @@ data_base = lambda color: {
         'group': 'ct:color_wool',
         'ingredients': [
             {
-                'tag': 'minecraft:wool'
+                'tag': 'minecraft:wool',
+                'count': 1
             },
             {
-                'item': f'minecraft:{color}_dye'
+                'item': f'minecraft:{color}_dye',
+                'count': 1
             }
         ],
         'result': {
-                  'item': f'minecraft:{color}_wool'
+            'item': f'minecraft:{color}_wool',
+            'count': 1
         }
     },
     'bed': {
@@ -34,14 +38,17 @@ data_base = lambda color: {
         'group': 'ct:color_bed',
         'ingredients': [
             {
-                'tag': 'wool_tweaks:wt_bed'
+                'tag': 'wool_tweaks:wt_bed',
+                'count': 1
             },
             {
-                'item': f'minecraft:{color}_dye'
+                'item': f'minecraft:{color}_dye',
+                'count': 1
             }
         ],
         'result': {
-        'item': f'minecraft:{color}_bed'
+            'item': f'minecraft:{color}_bed',
+            'count': 1
         }
     },
     'carpet': {
@@ -54,7 +61,7 @@ data_base = lambda color: {
         ],
         'key': {
             '*': {
-                'tag': 'wool_tweaks:wt_carpet'
+                'tag': '#wool_tweaks:carpets'
             },
             '_': {
                 'item': f'minecraft:{color}_dye'
