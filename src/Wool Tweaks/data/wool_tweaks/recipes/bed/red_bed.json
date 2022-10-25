@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "ct:color_bed",
+    "ingredients": [
+        {
+            "tag": "wool_tweaks:wt_bed"
+        },
+        {
+            "item": "minecraft:red_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:red_bed"
+    }
+}

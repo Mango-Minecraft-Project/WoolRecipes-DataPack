@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "ct:color_carpet",
+    "pattern": [
+        "***",
+        "*_*",
+        "***"
+    ],
+    "key": {
+        "*": {
+            "tag": "wool_tweaks:wt_carpet"
+        },
+        "_": {
+            "item": "minecraft:red_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:red_carpet",
+        "count": 8
+    }
+}
