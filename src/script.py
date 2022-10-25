@@ -38,7 +38,7 @@ data_base = lambda color: {
         'group': 'ct:color_bed',
         'ingredients': [
             {
-                'tag': 'wool_tweaks:wt_bed',
+                'tag': 'minecraft:beds',
                 'count': 1
             },
             {
@@ -61,7 +61,7 @@ data_base = lambda color: {
         ],
         'key': {
             '*': {
-                'tag': '#wool_tweaks:carpets'
+                'tag': 'wool_tweaks:carpets'
             },
             '_': {
                 'item': f'minecraft:{color}_dye'
