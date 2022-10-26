@@ -1,6 +1,6 @@
 <div align='center'>
 
-# WoolTweaks-Datapack
+# WoolRecipes-Datapack
 ![./img/icon/new_icon.png](./img/icon/new_icon.png)  
 | >English README< | [简体中文说明书](./README/README.zho-Hans_CN.md) | [繁體中文說明書](./README/README.zho-Hant_TW.md) |
 
@@ -8,7 +8,7 @@
 
 ---
 
-- [WoolTweaks-Datapack](#wooltweaks-datapack)
+- [WoolRecipes-Datapack](#woolrecipes-datapack)
   - [Gallery](#gallery)
   - [Description](#description)
   - [Icon Source](#icon-source)
@@ -55,6 +55,6 @@ Recipes for making wool into thread have also been added.
 
 ## About Links
 
-Github: [https://github.com/EvanHsieh0415/WoolTwaeks-Datapack/releases](https://github.com/EvanHsieh0415/WoolTwaeks-Datapack/releases "Github")  
+Github: [https://github.com/EvanHsieh0415/WoolRecipes-Datapack](https://github.com/EvanHsieh0415/WoolRecipes-Datapack "Github")  
 MC MOD: [https://www.mcmod.cn/class/7623.html](https://www.mcmod.cn/class/7623.html "MC MOD")  
-CurseForge (unapproved): [https://www.curseforge.com/minecraft/texture-packs/wool-tweaks-datapack-version](https://www.curseforge.com/minecraft/texture-packs/wool-tweaks-datapack-version "CurseForge")  
+CurseForge (unapproved): [https://www.curseforge.com/minecraft/texture-packs/wool-recipes-datapack](https://www.curseforge.com/minecraft/texture-packs/wool-recipes-datapack "CurseForge")  
