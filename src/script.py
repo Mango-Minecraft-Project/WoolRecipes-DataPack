@@ -17,7 +17,7 @@ wool_to_string_base = {
 data_base = lambda color: {
     'wool': {
         'type': 'crafting_shapeless',
-        'group': 'ct:color_wool',
+        'group': 'cp:color_wool',
         'ingredients': [
             {
                 'tag': 'minecraft:wool',
@@ -35,7 +35,7 @@ data_base = lambda color: {
     },
     'bed': {
         'type': 'minecraft:crafting_shapeless',
-        'group': 'ct:color_bed',
+        'group': 'cp:color_bed',
         'ingredients': [
             {
                 'tag': 'minecraft:beds',
@@ -53,7 +53,7 @@ data_base = lambda color: {
     },
     'carpet': {
         'type': 'minecraft:crafting_shaped',
-        'group': 'ct:color_carpet',
+        'group': 'cp:color_carpet',
         'pattern': [
             '***',
             '*_*',
@@ -61,7 +61,7 @@ data_base = lambda color: {
         ],
         'key': {
             '*': {
-                'tag': 'wool_tweaks:carpets'
+                'tag': 'wool_recipes:carpets'
             },
             '_': {
                 'item': f'minecraft:{color}_dye'
@@ -75,7 +75,7 @@ data_base = lambda color: {
 }
 
 def dump_file(path: str, data: dict) -> None:
-    with open(f'./Wool Tweaks/data/wool_tweaks/recipes/{path}.json', mode='w') as file:
+    with open(f'./Wool Recipes/data/wool_recipes/recipes/{path}.json', mode='w') as file:
         dump(data, file, indent=4)
 
 dump_file('wool_to_string', wool_to_string_base)
