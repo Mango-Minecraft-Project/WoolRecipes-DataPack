@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "cp:color_bed",
+    "ingredients": [
+        {
+            "tag": "minecraft:beds",
+            "count": 1
+        },
+        {
+            "item": "minecraft:orange_dye",
+            "count": 1
+        }
+    ],
+    "result": {
+        "item": "minecraft:orange_bed",
+        "count": 1
+    }
+}

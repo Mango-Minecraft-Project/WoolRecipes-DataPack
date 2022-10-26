@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shapeless",
+    "group": "cp:color_wool",
+    "ingredients": [
+        {
+            "tag": "minecraft:wool",
+            "count": 1
+        },
+        {
+            "item": "minecraft:pink_dye",
+            "count": 1
+        }
+    ],
+    "result": {
+        "item": "minecraft:pink_wool",
+        "count": 1
+    }
+}

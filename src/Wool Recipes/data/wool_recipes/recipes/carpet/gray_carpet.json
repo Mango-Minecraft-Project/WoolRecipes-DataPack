@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "cp:color_carpet",
+    "pattern": [
+        "***",
+        "*_*",
+        "***"
+    ],
+    "key": {
+        "*": {
+            "tag": "wool_recipes:carpets"
+        },
+        "_": {
+            "item": "minecraft:gray_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:gray_carpet",
+        "count": 8
+    }
+}
