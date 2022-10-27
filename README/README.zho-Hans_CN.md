@@ -48,4 +48,4 @@
 ## 其他连结
 Github: [https://github.com/EvanHsieh0415/WoolRecipes-Datapack](https://github.com/EvanHsieh0415/WoolRecipes-Datapack "Github")  
 MC百科: [https://www.mcmod.cn/class/7623.html](https://www.mcmod.cn/class/7623.html "MC百科")  
-CurseForge (审核中): [https://www.curseforge.com/minecraft/texture-packs/wool-recipes-datapack](https://www.curseforge.com/minecraft/texture-packs/wool-recipes-datapack "CurseForge")
+CurseForge: [https://www.curseforge.com/minecraft/texture-packs/wool-recipes-datapack](https://www.curseforge.com/minecraft/texture-packs/wool-recipes-datapack "CurseForge")
