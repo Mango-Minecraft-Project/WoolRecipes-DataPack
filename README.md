@@ -55,6 +55,6 @@ Recipes for making wool into thread have also been added.
 
 ## About Links
 
-Github: [https://github.com/EvanHsieh0415/WoolRecipes-Datapack](https://github.com/EvanHsieh0415/WoolRecipes-Datapack "Github")  
-MC MOD: [https://www.mcmod.cn/class/7623.html](https://www.mcmod.cn/class/7623.html "MC MOD")  
-CurseForge: [https://www.curseforge.com/minecraft/texture-packs/wool-recipes-datapack](https://www.curseforge.com/minecraft/texture-packs/wool-recipes-datapack "CurseForge")  
+Github: [https://mango-serives.github.io/src/link-list/WoolRecipes-Datapack/github](https://mango-serives.github.io/src/link-list/WoolRecipes-Datapack/github "Github")  
+MC MOD: [https://mango-serives.github.io/src/link-list/WoolRecipes-Datapack/mcmodl](https://mango-serives.github.io/src/link-list/WoolRecipes-Datapack/mcmodl "MC MOD")  
+CurseForge: [https://mango-serives.github.io/src/link-list/WoolRecipes-Datapack/curseforge](https://mango-serives.github.io/src/link-list/WoolRecipes-Datapack/curseforge "CurseForge")  

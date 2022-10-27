@@ -46,6 +46,6 @@
 > ![./img/icon/new_icon_license.png](./img/icon/new_icon_license.png)  
 
 ## 其他连结
-Github: [https://github.com/EvanHsieh0415/WoolRecipes-Datapack](https://github.com/EvanHsieh0415/WoolRecipes-Datapack "Github")  
-MC百科: [https://www.mcmod.cn/class/7623.html](https://www.mcmod.cn/class/7623.html "MC百科")  
-CurseForge: [https://www.curseforge.com/minecraft/texture-packs/wool-recipes-datapack](https://www.curseforge.com/minecraft/texture-packs/wool-recipes-datapack "CurseForge")
+Github: [https://mango-serives.github.io/src/link-list/WoolRecipes-Datapack/github](https://mango-serives.github.io/src/link-list/WoolRecipes-Datapack/github "Github")  
+MC百科: [https://mango-serives.github.io/src/link-list/WoolRecipes-Datapack/mcmodl](https://mango-serives.github.io/src/link-list/WoolRecipes-Datapack/mcmodl "MC百科")  
+CurseForge: [https://mango-serives.github.io/src/link-list/WoolRecipes-Datapack/curseforge](https://mango-serives.github.io/src/link-list/WoolRecipes-Datapack/curseforge "CurseForge")
