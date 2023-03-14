@@ -1,4 +1,3 @@
-# Move To [New Repo](https://github.com/Mango-Minecraft-Project/Mango-DataPack/blob/main/src/datapacks/more-recipes/wool-recipes)
 <div align='center'>
 
 # WoolRecipes-Datapack
